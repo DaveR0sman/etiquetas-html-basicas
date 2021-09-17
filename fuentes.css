@@ -1,0 +1,54 @@
+body {
+    background-color:  blanchedalmond;
+}
+
+.title{
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 200;
+    color: blueviolet;
+    text-align: center;
+}
+
+.font {
+    font-family: 'Grandstander', cursive;
+    font-weight: 200;
+    color: brown;
+    text-align: center;
+}
+
+.font1 {
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-weight: 300;
+    color: chartreuse;
+    text-align: center;
+    
+}
+
+.font2 {
+    font-family: 'Monsieur La Doulaise', cursive;
+    font-weight: 400;
+    color: darkcyan;
+    text-align: center;
+
+}
+
+.font3 {
+    font-family: 'Nixie One', cursive;
+    font-weight: 500;
+    text-align: center;
+    color:darkmagenta
+}
+
+.font4 {
+    font-family: 'Parisienne', cursive;
+    font-weight: 200;
+    text-align: center;
+
+}
+
+.font5 {
+    font-family: 'Rammetto One', cursive;
+    font-weight: 400;
+    text-align: center;
+
+}
